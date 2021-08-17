@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02e1c837-8336-4db9-85f8-d80f6294bad3" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RaenksinAutoUpdate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RaenksinAutoUpdate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-农夫乐事兼容]abnormals_delight-1.16.5-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-动作]personality-1.16.5-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-更多船]extraboats-1.16.5-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-末地拓展]endergetic-1.16.4-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-核心]abnormals_core-1.16.5-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-残暴与掠夺]savageandravage-1.16.5-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-浆果行为]berry_good-1.16.5-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-海洋生物]upgrade_aquatic-1.16.5-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-环境]environmental-1.16.5-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-秋原]autumnity-1.16.5-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-蜜蜂改革]buzzier_bees-1.16.5-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/[abnormals-那不勒斯风味]neapolitan-1.16.5-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/commons-codec-1.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/commons-io-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RaenksinAutoUpdate/raenksin/AutoUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RaenksinAutoUpdate/raenksin/frames/BasicFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RaenksinAutoUpdate/raenksin/frames/UpdateMainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RaenksinAutoUpdate/utils/ListUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RaenksinAutoUpdate/utils/MD5Util.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wpnY1t4VRUGzY7ILDdnr0EVLTB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48321342" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AutoUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="raenksin.AutoUpdate" />
+      <module name="RaenksinAutoUpdate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="raenksin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.AutoUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="02e1c837-8336-4db9-85f8-d80f6294bad3" name="更改" comment="" />
+      <created>1629164446307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629164446307</updated>
+      <workItem from="1629164450712" duration="107000" />
+      <workItem from="1629164910860" duration="113000" />
+      <workItem from="1629165641038" duration="32000" />
+      <workItem from="1629165714251" duration="64000" />
+      <workItem from="1629166294252" duration="64000" />
+      <workItem from="1629166513488" duration="14000" />
+      <workItem from="1629166569260" duration="415000" />
+      <workItem from="1629167001807" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
